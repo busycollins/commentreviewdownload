@@ -1,0 +1,7 @@
+C:\Users\chibuike.nwaogugu\Documents\PERSONAL PROJECTS\Mini-Project\Mini-Project.Logic\bin\Debug\netstandard2.0\Mini-Project.Logic.deps.json
+C:\Users\chibuike.nwaogugu\Documents\PERSONAL PROJECTS\Mini-Project\Mini-Project.Logic\bin\Debug\netstandard2.0\Mini-Project.Logic.dll
+C:\Users\chibuike.nwaogugu\Documents\PERSONAL PROJECTS\Mini-Project\Mini-Project.Logic\obj\Debug\netstandard2.0\Mini-Project.Logic.AssemblyInfoInputs.cache
+C:\Users\chibuike.nwaogugu\Documents\PERSONAL PROJECTS\Mini-Project\Mini-Project.Logic\obj\Debug\netstandard2.0\Mini-Project.Logic.AssemblyInfo.cs
+C:\Users\chibuike.nwaogugu\Documents\PERSONAL PROJECTS\Mini-Project\Mini-Project.Logic\bin\Debug\netstandard2.0\Mini-Project.Logic.pdb
+C:\Users\chibuike.nwaogugu\Documents\PERSONAL PROJECTS\Mini-Project\Mini-Project.Logic\obj\Debug\netstandard2.0\Mini-Project.Logic.dll
+C:\Users\chibuike.nwaogugu\Documents\PERSONAL PROJECTS\Mini-Project\Mini-Project.Logic\obj\Debug\netstandard2.0\Mini-Project.Logic.pdb

@@ -1,0 +1,10 @@
+﻿@model Mini_Project.Models.UrlModel
+
+@using (Html.BeginForm("Subscribe", "Home", FormMethod.Post))
+{
+    <h1>Only Yotube and Amazon link are currently supported</h1>
+    @Html.TextBoxFor(model => model.Url)
+    @Html.ValidationMessageFor(model => model.Url)
+    @Html.ValidationMessage("Please enter a valid Url.", new { @class = "text-danger" })
+    <button type="submit"> Submit link</button>
+}
